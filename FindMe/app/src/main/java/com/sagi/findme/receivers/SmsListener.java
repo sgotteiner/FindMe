@@ -16,7 +16,6 @@ import com.sagi.findme.R;
 import com.sagi.findme.entities.Location;
 import com.sagi.findme.utilities.SharedPreferencesHelper;
 
-import java.io.IOException;
 
 public class SmsListener extends BroadcastReceiver {
 
